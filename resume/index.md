@@ -2,8 +2,7 @@
 layout: post
 title: "Dmitry Stepanov"
 ---
-
-### Development Engineer
+**Development Engineer**
 
 *   Location: Los Angeles, CA
 *   Willing to relocate: Anywhere
