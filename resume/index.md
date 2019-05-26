@@ -6,7 +6,7 @@ title: "Dmitry Stepanov"
 
 *   Location: Los Angeles, CA
 *   Willing to relocate: Anywhere
-*   Contacts: dmitry_stepanov@list.ru
+*   Contacts: ateds@list.ru
 
 I have a strong background in the fields of hardware and software development, testing, signal processing, RF-measurements etc.
 
@@ -26,7 +26,7 @@ Development of test equipment for automated testing of RF-devices, systems, etc.
 
 Modeling (with Matlab, Simulink) and hardware implementation of DPD for space application TR modules that run on high order of digital modulations (such as 256-QAM, 32APSK) and wide signal bandwidth (symbol rate above 500 Msym/sec)
 
-Standardization of ATE (Automated Test Equipment) and systems that used in testing space equipment. I have developed industry standard for ground-based test equipment that is used for on-board equipment
+Standardization of ATE (Automated Test Equipment) and systems that used in testing space equipment. I have developed industry standard for ground-based test equipment that is used with on-board equipment
 
 **RF test develop Engineer**
 
