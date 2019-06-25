@@ -1,3 +1,18 @@
-name: Dmitry Stepaniv, Development Engineer Cop
+# Site settings
+assets:
+  cachebust: hard
+title: Dmitry Stepanov
+name: Dmitry Stepanov
+email: ateds@list.ru
+description: >
+  Thoughts about life, technology, development, and blog by Dmitry Stepanov.
+baseurl: ""
+url: "https://dmitrystepanov.net"
+enforce_ssl: "dmitrystepanov.net"
+relative_permalinks: false
+permalink: :year/:title/  # permalink: date
+future: true
+paginate: 100
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
