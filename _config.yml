@@ -13,3 +13,10 @@ paginate: 100
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+# Where things are
+source              : .
+
+layouts_dir         : _layouts
+includes_dir        : _includes
+
