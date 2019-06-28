@@ -1,6 +1,4 @@
 # Site settings
-assets:
-  cachebust: hard
 title: Dmitry Stepanov
 name: Dmitry Stepanov
 email: ateds@list.ru
