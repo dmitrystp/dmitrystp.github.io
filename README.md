@@ -3,7 +3,7 @@
 
 - Location: Los Angeles, CA 
 - Willing to relocate: Anywhere 
-- Contacts: dmitry\_stepanov@list.ru 
+- Contacts: 
 
 I have a strong background in the fields of hardware and software development, testing, signal processing, RF-measurements etc.
 
