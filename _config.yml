@@ -7,8 +7,7 @@ description: >
 baseurl: ""
 url: "https://dmitrystepanov.net"
 enforce_ssl: "dmitrystepanov.net"
-relative_permalinks: false
-permalink: :year/:title/  # permalink: date
+
 future: true
 paginate: 100
 
