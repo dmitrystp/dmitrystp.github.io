@@ -1,19 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-  <body>
-	  <div class="container">
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<!--<li><a href="/about">About</a></li>--> 
+	        		<li><a href="/resume">1Resume</a></li>
+	        		<!--<li><a href="/blog">Blog</a></li>--> 
+	    		</ul>
+			</nav>
+			<div class="container">
 			
-			{% include header.html %}
+			{{ content }}
 			
-			{{ content }} v2
-			
-			<!--{% include footer.html %} -->
-		
-	 </div> <!-- /container -->
-	
-	
-		{% include scripts.html %}
-	
-  </body>
-</html>
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:ateds@list.ru">Email</a></li>
+	        		<li><a href="https://github.com/DSTHub">github.com/DSTHub</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
