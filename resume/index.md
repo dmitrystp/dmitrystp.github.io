@@ -17,13 +17,19 @@ Familiarity with a lot of measurement and test equipment (DMMs, oscilloscopes, s
 
 ## Skills
 
-Software: Python, C, C++, Qt, Forth, Delphi, Pascal, Git, UML SQL,
+Software: Python, C, C++, Qt, Forth, Delphi, Pascal, Git, UML SQL
+
 Embedded & Microelectronics: Firmware, DSP, VHDL, Verilog, FPGA, ASIC, Analog, RTL verification, microcontrollers: AVR, Cortex ARM, ESP8266, ESP82, Sensors, MEMS
+
 Modeling: Matlab, LabView, engineering characterization and pre-production test validation
+
 CADs: Autocad, Altium Designer, ADS, IC-CAP, PCB designer, Quartus, Vivado
+
 Protocols: MIL-STD-1553, SPI, I2C, RS-232, CAN, ARINC-429, Ethernet, TCP/IP, SpaceWire, IEEE 802.11
+
 Measurement equipment vendors: National Instruments, Rohde&Schwarz, Tektronix, Agilent Technologies, Keysight Technologies
-Hardware Prototyping: Soldering, test plans, troubleshooting and measuring, JTAG, Sensors, System design/ modeling, Electronic space equipment, robust systems.
+
+Hardware Prototyping: Soldering, test plans, troubleshooting and measuring, JTAG, Sensors, Electronic space equipment, robust systems.
 
 ## Work Experience
 
