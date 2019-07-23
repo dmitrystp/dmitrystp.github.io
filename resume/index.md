@@ -8,43 +8,57 @@ title: "Dmitry Stepanov"
 *   Willing to relocate: Anywhere
 *   Contacts: ateds@list.ru
 
-I have a strong background in the fields of hardware and software development, testing, signal processing, RF-measurements etc.
+Professional Developer with 8+ years of experience encompassing the following competencies and fields: Hardware development, software development, testing, signal processing, RF-measurements, Modeling, Microelectronics, Electrical engineering, prototyping etc.
+
+Knowledge and hand-on using of programming languages including Python, C/C++ (Qt5), Forth, Delphi, Pascal, Matlab, hardware description languages: VHDL, Verilog and operating systems MS Windows, UNIX/Linux, Apple OS.
 
 Familiarity with a lot of measurement and test equipment (DMMs, oscilloscopes, spectrum, time interval, logic and network analyzers, power meters, load-pull systems, ATE systems, etc.)
 
 ## Skills
 
-Python, C, C++, Qt, VHDL, Verilog, FPGA, LabView, Modeling, Firmware, ASIC, DSP, Testing, Electronic space equipment, Embedded, Microcontrollers, Microelectronics, Git, UML, Linux, Autocad, Altium Designer, Matlab, ADS, IC-CAP, PCB designer, Soldering, Prototyping, Measurement equipment, Automatic test equipment, Matplotlib, SciPy, NIvisa, SQL, National Instruments, ATE, Project Management
+Software: Python, C, C++, Qt, Forth, Delphi, Pascal, Git, UML SQL,
+Embedded & Microelectronics: Firmware, DSP, VHDL, Verilog, FPGA, ASIC, Analog, RTL verification, microcontrollers: AVR, Cortex ARM, ESP8266, ESP82, Sensors, MEMS
+Modeling: Matlab, LabView, engineering characterization and pre-production test validation
+CADs: Autocad, Altium Designer, ADS, IC-CAP, PCB designer, Quartus, Vivado
+Protocols: MIL-STD-1553, SPI, I2C, RS-232, CAN, ARINC-429, Ethernet, TCP/IP, SpaceWire, IEEE 802.11
+Measurement equipment vendors: National Instruments, Rohde&Schwarz, Tektronix, Agilent Technologies, Keysight Technologies
+Hardware Prototyping: Soldering, test plans, troubleshooting and measuring, JTAG, Sensors, System design/ modeling, Electronic space equipment, robust systems.
 
 ## Work Experience
 
-**Testing and control lead Engineer**
+**Lead Testing and Controls Engineer**
 
 _Russian space systems, Moscow, Russia (March 2017 to Present)_
 
-Development of test equipment for automated testing of RF-devices, systems, etc. (with Python, NIvisa, PyVisa and Qt5)
+Developed system architecture and requirement for measurement systems of unified onboard equipment as a System engineer. Currently for 8+ unified systems and 40+ unified modules. 
 
-Modeling (with Matlab, Simulink) and hardware implementation of DPD for space application TR modules that run on high order of digital modulations (such as 256-QAM, 32APSK) and wide signal bandwidth (symbol rate above 500 Msym/sec)
+Developed automated test equipment for a lot of RF-devices, different Space systems etc (with C/C++, Python, NIvisa, PyVisa and Qt5)
 
-Standardization of ATE (Automated Test Equipment) and systems that used in testing space equipment. I have developed industry standard for ground-based test equipment that is used with on-board equipment
+Modeling (with Matlab, Simulink) and hardware implementation of digital pre-distortion (DPD) for space application Transmit/Receive (T/R) Modules that run on high order of digital modulations (such as 256-QAM, 64APSK) and wide signal bandwidth (symbol rate above 500 Msym/sec)
+
+Designed standard of Roscosmos Corporation for ground-based ATE (Automated Test Equipment) and test systems that used in testing of electronic on-board space equipment
 
 **RF test develop Engineer**
 
 _Akmetron untill mid of 2016 (Keysight reseller), Sernia untill 2017 - Moscow (March 2014 to March 2017)_
 
-I developed automated test stands (ATE) for testing electronic devices and systems (RF devices up to 67 GHz, GNSS, Radar and telemetric systems, etc.) for Developmental, Approval and Acceptance tests
+Developed automated test stands (ATE) for testing electronic devices and systems (RF devices up to 67 GHz, GNSS, Radar and telemetric systems, etc.) for Developmental, Approval and Acceptance tests
 
-I gave a lot of technical presentations, demonstrations, seminars and trainings for technical specialists of our customers. I told how to use measurement equipment and perform measurements such as the noise factor, phase noise, S-parameters, wideband frequency response (from 1 GHz and higher), test communication standards, measure digital modulation parameters, mixers measurements, load-pull and etc.
+Demonstrated products and POC (Proof of Concept) development. Made a lot of technical presentations, demonstrations, seminars and trainings for technical specialists of Customers
+
+Promoted measurement equipment and measurements methods such as the noise factor, phase noise, S-parameters, wideband frequency response (from 1 GHz and higher), test communication standards, measure digital modulation parameters, mixers measurements, load-pull, etc.
+
+Managed projects for the sale, development and implementation of the company's measuring solutions to Customers
 
 **Research Engineer**
 
 _Russian space systems - Moscow (September 2011 to March 2014)_
 
-I developed and tested modules and prototypes of electronic equipment for space applications: designed and assembled PCBs, developed test plans, troubleshooting and measuring (testing, analysis, documentation, reports)
+Developed and tested modules and prototypes of electronic equipment for space applications: designed and assembled PCBs, developed test plans, troubleshooting and measuring (testing, analysis, documentation, reports)
 
-In addition, I participated in telemetry processing projects, DSP algorithms based on microcontrollers, FPGA, BMC and ASIC (Analog, digital designs and a lot of test benches for our projects even RTL modeling)
+Participated in telemetry processing projects, DSP algorithms based on microcontrollers, FPGA and ASIC (Analog, digital designs and a lot of test benches for our projects even RTL modeling)
 
-For example, I participated in develop Kanopus-V-IK satellites (http://tass.com/science/987982) when I worked on capturing the signal, digital processing the signal, transport packing for transmission to the Earth.
+Designed real-time embedded systems for Kanopus-V-IK satellites (http://tass.com/science/987982) namely for data acquisition system, capturing and digital signal processing, transport packing for transmission to the ground station.
 
 ## Education
 
