@@ -8,6 +8,7 @@ title: "Dmitry Stepanov"
 *   Willing to relocate: Anywhere
 *   Contacts: ateds@list.ru
 
+
 Professional Developer with 8+ years of experience encompassing the following competencies and fields: Hardware development, software development, testing, signal processing, RF-measurements, Modeling, Microelectronics, Electrical engineering, prototyping etc.
 
 Knowledge and hand-on using of programming languages including Python, C/C++ (Qt5), Forth, Delphi, Pascal, Matlab, hardware description languages: VHDL, Verilog and operating systems MS Windows, UNIX/Linux, Apple OS.
@@ -26,6 +27,7 @@ Hardware Prototyping: Soldering, test plans, troubleshooting and measuring, JTAG
 
 ## Work Experience
 
+
 **Lead Testing and Controls Engineer**
 
 _Russian space systems, Moscow, Russia (March 2017 to Present)_
@@ -37,6 +39,7 @@ Developed automated test equipment for a lot of RF-devices, different Space syst
 Modeling (with Matlab, Simulink) and hardware implementation of digital pre-distortion (DPD) for space application Transmit/Receive (T/R) Modules that run on high order of digital modulations (such as 256-QAM, 64APSK) and wide signal bandwidth (symbol rate above 500 Msym/sec)
 
 Designed standard of Roscosmos Corporation for ground-based ATE (Automated Test Equipment) and test systems that used in testing of electronic on-board space equipment
+
 
 **RF test develop Engineer**
 
@@ -50,7 +53,8 @@ Promoted measurement equipment and measurements methods such as the noise factor
 
 Managed projects for the sale, development and implementation of the company's measuring solutions to Customers
 
-**Research Engineer**
+
+**Research Electrical Engineer**
 
 _Russian space systems - Moscow (September 2011 to March 2014)_
 
