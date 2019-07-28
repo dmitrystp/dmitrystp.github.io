@@ -4,8 +4,7 @@ title: "Dmitry Stepanov"
 ---
 **Development Engineer**
 
-*   Location: Los Angeles, CA
-*   Willing to relocate: Anywhere
+*   Location: Moscow, Russia
 *   Contacts: ateds@list.ru
 
 
