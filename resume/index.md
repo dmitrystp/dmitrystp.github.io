@@ -18,7 +18,7 @@ Familiarity with a lot of measurement and test equipment (DMMs, oscilloscopes, s
 
 Software: Python, C, C++, Qt, Forth, Delphi, Pascal, Git, UML SQL
 
-Embedded & Microelectronics: Firmware, DSP, VHDL, Verilog, FPGA, ASIC, Analog, RTL verification, microcontrollers: AVR, Cortex ARM, ESP8266, ESP82, Sensors, MEMS
+Embedded & Microelectronics: Firmware, DSP, VHDL, Verilog, FPGA, ASIC, Analog, RTL verification, microcontrollers: AVR, Cortex ARM, ESP8266, ESP32, Sensors, MEMS
 
 Modeling: Matlab, LabView, engineering characterization and pre-production test validation
 
@@ -28,7 +28,7 @@ Protocols: MIL-STD-1553, SPI, I2C, RS-232, CAN, ARINC-429, Ethernet, TCP/IP, Spa
 
 Measurement equipment vendors: National Instruments, Rohde&Schwarz, Tektronix, Agilent Technologies, Keysight Technologies
 
-Hardware Prototyping: Soldering, test plans, troubleshooting and measuring, JTAG, Sensors, Electronic space equipment, robust systems.
+Hardware Prototyping: PCB assembling, Soldering, test plans, troubleshooting and measuring, JTAG, Sensors, Electronic space equipment, robust systems.
 
 ## Work Experience
 
