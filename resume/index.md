@@ -22,7 +22,7 @@ Embedded & Microelectronics: Firmware, DSP, VHDL, Verilog, FPGA, ASIC, Analog, R
 
 Modeling: Matlab, LabView, engineering characterization and pre-production test validation
 
-CADs: Autocad, Altium Designer, ADS, IC-CAP, PCB designer, Quartus, Vivado
+CADs: Autocad, Altium Designer, ADS, IC-CAP, PCB designer, Quartus, Vivado,  Xilinx ISE
 
 Protocols: MIL-STD-1553, SPI, I2C, RS-232, CAN, ARINC-429, Ethernet, TCP/IP, SpaceWire, IEEE 802.11
 
@@ -71,6 +71,6 @@ Designed real-time embedded systems for Kanopus-V-IK satellites (http://tass.com
 
 ## Education
 
-**Master's in Technology and design of radioelectronic facilities**
+**Master's in Technology and design of radio-electronic facilities**
 
 _Moscow Aviation Institute (National Research University) - Moscow September 2007 to June 2013_
