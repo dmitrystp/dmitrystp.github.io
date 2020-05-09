@@ -1,37 +1,39 @@
 <!DOCTYPE html>
-	<html lang="en">
-		<head>
-			<title>{{ page.title }}</title>
-			<meta charset="utf-8">
-			<meta name="viewport" width="device-width, initial-scale=1">
-			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<meta name="description" content="{{ page.description }}">
-			<meta name="author" content="Dmitry Stepanov">
-			<!-- favicon -->
-			<link rel="shortcut icon" href="/img/ico/favicon-32x32.png" type="image/png">
-			<!-- styles -->
-			<link href="/css/bootstrap.css" rel="stylesheet">
-			<link href="/css/style.css" rel="stylesheet">
-			<link rel="stylesheet" href="/css/font-awesome.min.css">
-			<!-- link to main stylesheet -->
-			<!-- Global site tag (gtag.js) - Google Analytics -->
-			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49577900-2"></script>
-			<script>
-			  window.dataLayer = window.dataLayer || [];
-			  function gtag(){dataLayer.push(arguments);}
-			  gtag('js', new Date());
+<html lang="en">
+	<head>
+		<title>{{ page.title }}</title>
+		<meta charset="utf-8">
+		<meta name="viewport" width="device-width, initial-scale=1">
+		<meta name="description" content="{{ page.description }}">
+		<meta name="author" content="Dmitry Stepanov">
+		<!-- favicon -->
+		<link rel="shortcut icon" href="/assets/images/ico/favicon-32x32.png" type="image/png">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49577900-2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-49577900-2');
+		</script>
 
-			  gtag('config', 'UA-49577900-2');
-			</script>
-
-		</head>
-		<body>
-			<div class="container">
-				{% include header.html %}
-				{{ content }}
-				{% include footer.html %}
-			</div><!-- /.container -->
-			<script src="https://code.jquery.com/jquery.js"></script>
-			<script src="/js/bootstrap.min.js"></script>
-		</body>
-	</html>
+	</head>
+	<body class="is-preload">
+		<div id="wrapper">
+			{% include header.html %}
+			{% include nav.html %}
+			{{ content }}
+			{% include footer.html %}
+		</div><!-- /.container -->
+		<script src="/assets/js/jquery.min.js"></script>
+		<script src="/assets/js/jquery.scrolly.min.js"></script>
+		<script src="/assets/js/jquery.scrollex.min.js"></script>
+		<script src="/assets/js/browser.min.js"></script>
+		<script src="/assets/js/breakpoints.min.js"></script>
+		<script src="/assets/js/util.js"></script>
+		<script src="/assets/js/main.js"></script>
+	</body>
+</html>
